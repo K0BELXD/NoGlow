@@ -1,6 +1,6 @@
 # v1.0.1
 fixed github issues\
-arqade <3
+jj chairy <3
 
 # v1.0.0
 initial (not) release\
