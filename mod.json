@@ -10,5 +10,14 @@
 	"name": "NoGlow",
 	"version": "v1.0.1",
 	"developer": "kobel",
-	"description": "Adds NoGlow to every object you place."
+	"description": "Adds NoGlow to every object you place.",
+	"settings": {
+		"enabled":{
+			"name": "Enabled",
+			"description": "Whether or not the mod is enabled",
+			"type":"bool",
+			"default": true
+		}
+		
+	}
 }
